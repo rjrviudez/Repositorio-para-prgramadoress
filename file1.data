@@ -2,7 +2,4 @@ class .calculadora {
 sumar(a,b) {
 return a+b
 }
-multiplicar (a,b){
-return a*b
-}
 }
